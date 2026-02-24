@@ -264,7 +264,22 @@ ant run
 - Mobile application version
 - Dashboard export to image files
 - Transaction search and filter enhancements
-- Multi-currency support
 - Cloud database synchronization
+
+## License
+
+Please refer to the LICENSE file in the project root.
+
+## Team Members
+
+- P H D B Nayanakantha
+- R M J Jayashan 
+- N T P G B Upethra 
+- H D S J Dharmasiri 
+- L B Alles 
+
+This is a collaborative group assignment repository where all team members contribute to the development of the Finance-Tracker application.
+
+
 
 
