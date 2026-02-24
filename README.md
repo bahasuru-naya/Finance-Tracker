@@ -281,7 +281,7 @@ Please refer to the LICENSE file in the project root.
 - H D S J Dharmasiri 
 - L B Alles 
 
-This is a collaborative group assignment repository where all team members contribute to the development of the Finance-Tracker application.
+This is a collaborative group repository where all team members contribute to the development of the Finance-Tracker application.
 
 
 
