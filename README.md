@@ -1,5 +1,8 @@
 # Finance-Tracker
 
+<img width="526" height="351" alt="Screenshot 2026-02-24 090641" src="https://github.com/user-attachments/assets/caba73a5-772f-4233-9399-548d8e558c5a" />
+<img width="752" height="392" alt="Screenshot 2026-02-24 091632" src="https://github.com/user-attachments/assets/88893401-7fc6-4092-86b5-947507bb63ba" />
+
 A comprehensive personal finance management application built with Java Swing, designed for tracking income, expenses, and financial transfers with an intuitive GUI interface.
 
 ## Overview
